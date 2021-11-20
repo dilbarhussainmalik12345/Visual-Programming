@@ -1,4 +1,4 @@
-
+package lab_tasks.Fst_Mid_Preparation;
 import java.util.Scanner;
 
 public class Oned_Array_Scanner 

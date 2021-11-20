@@ -1,3 +1,4 @@
+package lab_tasks.Fst_Mid_Preparation;
 public class Arraybounds 
 {
      public static void main(String[] args)
